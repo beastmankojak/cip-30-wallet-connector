@@ -1,6 +1,6 @@
 {
   "name": "@beastmankojak/cip-30-wallet-connector",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wallet connector for CIP-30 wallets",
   "author": "beastman.kojak",
   "license": "MIT",
